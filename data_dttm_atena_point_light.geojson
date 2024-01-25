@@ -1,0 +1,408 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.7799",
+                    "8.4606"
+                ]
+            },
+            "properties": {
+                "id": "zahra-kamara",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"zahra-kamara\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"8.4606\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"11.7799\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Zahra Kamara</div></div><div class=\"locations-map_population-wrapper\"><div>Sierra Leone</div></div>",
+                "arrayID": 0,
+                "features": [
+                    "Tourism"
+                ],
+                "country": "Sierra Leone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.3015",
+                    "13.2543"
+                ]
+            },
+            "properties": {
+                "id": "william-kamkwamba",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"william-kamkwamba\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"13.2543\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"34.3015\"></div><div class=\"locations-map_name\"><div class=\"text-block\">William Kamkwamba</div></div><div class=\"locations-map_population-wrapper\"><div>Malawi</div></div>",
+                "arrayID": 1,
+                "features": [
+                    "Renewable Energy"
+                ],
+                "country": "Malawi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.1549",
+                    "19.0154"
+                ]
+            },
+            "properties": {
+                "id": "terence-chambati",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"terence-chambati\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"19.0154\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"29.1549\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Terence Chambati</div></div><div class=\"locations-map_population-wrapper\"><div>Zimbabwe</div></div>",
+                "arrayID": 2,
+                "features": [
+                    "Renewable Energy"
+                ],
+                "country": "Zimbabwe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.02109594139795",
+                    "-17.79652733158977"
+                ]
+            },
+            "properties": {
+                "id": "steven-strange",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"steven-strange\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"-17.79652733158977\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"31.02109594139795\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Steven Strange</div></div><div class=\"locations-map_population-wrapper\"><div>Harare</div></div>",
+                "arrayID": 3,
+                "features": [
+                    "Politics"
+                ],
+                "country": "Harare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.4241",
+                    "33.9249"
+                ]
+            },
+            "properties": {
+                "id": "spencer-horne",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"spencer-horne\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"33.9249\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"18.4241\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Spencer Horne</div></div><div class=\"locations-map_population-wrapper\"><div>Cape Town</div></div>",
+                "arrayID": 4,
+                "features": [
+                    "Healthcare"
+                ],
+                "country": "Cape Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.1549",
+                    "19.0154"
+                ]
+            },
+            "properties": {
+                "id": "simba-moyo",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"simba-moyo\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"19.0154\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"29.1549\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Simba Moyo</div></div><div class=\"locations-map_population-wrapper\"><div>Zimbabwe</div></div>",
+                "arrayID": 5,
+                "features": [
+                    "Tourism"
+                ],
+                "country": "Zimbabwe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.314886795822936",
+                    "-15.387600487056805"
+                ]
+            },
+            "properties": {
+                "id": "serious-black",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"serious-black\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"-15.387600487056805\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"28.314886795822936\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Serious Black</div></div><div class=\"locations-map_population-wrapper\"><div>Lusaka</div></div>",
+                "arrayID": 6,
+                "features": [
+                    "Education"
+                ],
+                "country": "Lusaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.8219",
+                    "1.2921"
+                ]
+            },
+            "properties": {
+                "id": "nia-mwangi",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"nia-mwangi\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"1.2921\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"36.8219\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Nia Mwangi</div></div><div class=\"locations-map_population-wrapper\"><div>Kenya</div></div>",
+                "arrayID": 7,
+                "features": [
+                    "Education"
+                ],
+                "country": "Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.9062",
+                    "0.0236"
+                ]
+            },
+            "properties": {
+                "id": "melissa-kariuki-",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"melissa-kariuki-\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"0.0236\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"37.9062\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Melissa Kariuki </div></div><div class=\"locations-map_population-wrapper\"><div>Kenya</div></div>",
+                "arrayID": 8,
+                "features": [
+                    "Renewable Energy"
+                ],
+                "country": "Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.0307",
+                    " 7.9528"
+                ]
+            },
+            "properties": {
+                "id": "kwame-nkosi",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"kwame-nkosi\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\" 7.9528\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"1.0307\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Kwame Nkosi</div></div><div class=\"locations-map_population-wrapper\"><div>Ghana</div></div>",
+                "arrayID": 9,
+                "features": [
+                    "Renewable Energy"
+                ],
+                "country": "Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.0232",
+                    "7.9465"
+                ]
+            },
+            "properties": {
+                "id": "julia-agudogo",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"julia-agudogo\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"7.9465\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"1.0232\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Julia Agudogo </div></div><div class=\"locations-map_population-wrapper\"><div>Ghana</div></div>",
+                "arrayID": 10,
+                "features": [
+                    "Healthcare"
+                ],
+                "country": "Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22.9375",
+                    "30.5595"
+                ]
+            },
+            "properties": {
+                "id": "jabari-nkosi",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"jabari-nkosi\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"30.5595\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"22.9375\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Jabari Nkosi</div></div><div class=\"locations-map_population-wrapper\"><div>South Africa</div></div>",
+                "arrayID": 11,
+                "features": [],
+                "country": "South Africa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.9962",
+                    "17.5707"
+                ]
+            },
+            "properties": {
+                "id": "fatoumata-diop",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"fatoumata-diop\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"17.5707\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"3.9962\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Fatoumata Diop</div></div><div class=\"locations-map_population-wrapper\"><div>Mali</div></div>",
+                "arrayID": 12,
+                "features": [
+                    "Women Empowerment"
+                ],
+                "country": "Mali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.9962",
+                    "17.5707"
+                ]
+            },
+            "properties": {
+                "id": "fatima-al-ansar-",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"fatima-al-ansar-\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"17.5707\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"3.9962\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Fatima Al Ansar </div></div><div class=\"locations-map_population-wrapper\"><div>Mali</div></div>",
+                "arrayID": 13,
+                "features": [
+                    "Agriculture"
+                ],
+                "country": "Mali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.9062",
+                    "0.0236"
+                ]
+            },
+            "properties": {
+                "id": "eddy-oketch",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"eddy-oketch\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"0.0236\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"37.9062\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Eddy Oketch</div></div><div class=\"locations-map_population-wrapper\"><div>Kenya</div></div>",
+                "arrayID": 14,
+                "features": [
+                    "Healthcare",
+                    "Refugees"
+                ],
+                "country": "Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.6753",
+                    "9.0820"
+                ]
+            },
+            "properties": {
+                "id": "davido-akintola",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"davido-akintola\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"9.0820\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"8.6753\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Davido Akintola</div></div><div class=\"locations-map_population-wrapper\"><div>Nigeria</div></div>",
+                "arrayID": 15,
+                "features": [
+                    "Infrastructure"
+                ],
+                "country": "Nigeria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.6753",
+                    "9.0820"
+                ]
+            },
+            "properties": {
+                "id": "chijioke-obi",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"chijioke-obi\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"9.0820\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"8.6753\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Chijioke Obi</div></div><div class=\"locations-map_population-wrapper\"><div>Nigeria</div></div>",
+                "arrayID": 16,
+                "features": [
+                    "Healthcare"
+                ],
+                "country": "Nigeria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.4524",
+                    "14.4974"
+                ]
+            },
+            "properties": {
+                "id": "boubacar-sow",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"boubacar-sow\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"14.4974\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"14.4524\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Boubacar Sow</div></div><div class=\"locations-map_population-wrapper\"><div>Senegal</div></div>",
+                "arrayID": 17,
+                "features": [
+                    "Renewable Energy"
+                ],
+                "country": "Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.9062",
+                    "0.0236"
+                ]
+            },
+            "properties": {
+                "id": "ashraf-ismail",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"ashraf-ismail\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"0.0236\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"37.9062\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Ashraf Ismail </div></div><div class=\"locations-map_population-wrapper\"><div>Ghana</div></div>",
+                "arrayID": 18,
+                "features": [
+                    "Politics"
+                ],
+                "country": "Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.4524",
+                    "14.4974"
+                ]
+            },
+            "properties": {
+                "id": "amina-jallow",
+                "description": "<div class=\"w-embed\"><input type=\"hidden\" id=\"locationID\" value=\"amina-jallow\">\n<input type=\"hidden\" id=\"locationLatitude\" value=\"14.4974\">\n<input type=\"hidden\" id=\"locationLongitude\" value=\"14.4524\"></div><div class=\"locations-map_name\"><div class=\"text-block\">Amina Jallow</div></div><div class=\"locations-map_population-wrapper\"><div>Senegal</div></div>",
+                "arrayID": 19,
+                "features": [
+                    "Immigrant"
+                ],
+                "country": "Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.3015",
+                    "13.2543"
+                ]
+            },
+            "properties": {
+                "id": "william-kamkwamba",
+                "description": "description",
+                "arrayID": 0,
+                "features": [
+                    "Renewable Energy"
+                ]
+            }
+        }
+    ]
+}
